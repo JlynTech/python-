@@ -1,0 +1,24 @@
+2026-01-15 03:12:04 INFO Server rack-04-u12 boot sequence complete
+2026-01-15 03:14:41 INFO Health check passed for switch-core-01
+2026-01-15 03:22:09 WARNING High CPU usage detected on server rack-02-u08 (91%)
+2026-01-15 03:45:17 ERROR Connection timeout to host 10.0.4.15
+2026-01-15 04:01:33 INFO Scheduled backup started for volume /data/vol02
+2026-01-15 04:03:58 ERROR Connection timeout to host 10.0.4.15
+2026-01-15 04:15:22 WARNING Disk usage above 85% on rack-01-u04
+2026-01-15 04:30:00 INFO Scheduled backup completed successfully
+2026-01-15 05:02:11 ERROR Authentication failure for user svc-monitor on switch-access-07
+2026-01-15 05:03:47 CRITICAL Power supply failure detected on rack-03-u02 (PSU-B)
+2026-01-15 05:04:02 WARNING Failover to PSU-A initiated on rack-03-u02
+2026-01-15 05:10:15 INFO Failover completed, rack-03-u02 running on PSU-A
+2026-01-15 05:22:34 ERROR Connection timeout to host 10.0.4.15
+2026-01-15 05:40:09 WARNING High CPU usage detected on server rack-02-u08 (94%)
+2026-01-15 06:00:00 INFO Nightly maintenance window started
+2026-01-15 06:12:45 ERROR Disk read error on rack-05-u10, sector reallocation triggered
+2026-01-15 06:15:30 CRITICAL Cooling system alert: intake temp 82F on aisle-3
+2026-01-15 06:16:02 WARNING Fan speed increased to 100% on aisle-3 cooling units
+2026-01-15 06:25:11 INFO Aisle-3 temperature returned to normal (71F)
+2026-01-15 06:40:22 INFO Nightly maintenance window completed
+2026-01-15 07:05:19 ERROR Connection timeout to host 10.0.4.15
+2026-01-15 07:12:08 WARNING Disk usage above 85% on rack-01-u04
+2026-01-15 07:30:44 INFO Health check passed for switch-core-01
+2026-01-15 07:45:12 ERROR Authentication failure for user svc-monitor on switch-access-07
